@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	background-color: #BDBDBD;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container-body {
+	background-color: #C9DF8A;
+}
+
+.title {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding: 5px;
+}
+#header-nav {
+	background-color: #89c97a;
+	text-align: left;
+}
+
+h1 {
+	float: left !important;
+	margin-top:-10px !important;
+	text-align: left !important;
+}
+
+
+
